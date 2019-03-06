@@ -8,17 +8,3 @@ zone "1.10.in-addr.arpa" {
     file "/etc/named/zones/db.10.1";  # 10.1.0.0/16 subnet
     };
 
-zone "2.10.in-addr.arpa" {
-    type master;
-    file "/etc/named/zones/db.10.2";  # 10.2.0.0/16 subnet
-    };
-
-zone "3.10.in-addr.arpa" {
-    type master;
-    file "/etc/named/zones/db.10.3";  # 10.3.0.0/16 subnet
-    };
-
-zone "4.10.in-addr.arpa" {
-    type master;
-    file "/etc/named/zones/db.10.4";  # 10.4.0.0/16 subnet
-    };
