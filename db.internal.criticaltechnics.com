@@ -17,7 +17,7 @@ dns.internal.criticaltechnics.com.            IN      A         private_ip0
 jenkins.internal.criticaltechnics.com.        IN      A      	private_ip1
 rocketchat.internal.criticaltechnics.com.     IN      A         private_ip2
 openvas.internal.criticaltechnics.com.        IN      A         private_ip3
-elasticstack.internal.criticaltechnics.com.   IN      A         private_ip4
+kibana.internal.criticaltechnics.com.         IN      A         private_ip4
 prometheus.internal.criticaltechnics.com.     IN      A         private_ip5
 gitlab.internal.criticaltechnics.com.         IN      A         private_ip6
 sonarqube.internal.criticaltechnics.com.      IN      A         private_ip7
