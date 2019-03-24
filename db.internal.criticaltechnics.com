@@ -22,3 +22,4 @@ prometheus.internal.criticaltechnics.com.     IN      A         private_ip5
 gitlab.internal.criticaltechnics.com.         IN      A         private_ip6
 sonarqube.internal.criticaltechnics.com.      IN      A         private_ip7
 artifactory.internal.criticaltechnics.com.    IN      A         private_ip8
+grafana.internal.criticaltechnics.com.        IN      A         private_ip9
