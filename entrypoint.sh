@@ -51,7 +51,7 @@ fi
 echo "Restarting services"
 /usr/sbin/openvassd
 /usr/sbin/openvasmd
-/usr/sbin/gsad -c /opt/openvas/cert.crt -k /opt/openvas/cert.key/
+/usr/sbin/gsad -c /opt/openvas/cert.crt -k /opt/openvas/cert.key
 
 echo
 echo -n "Checking for scanners: "
